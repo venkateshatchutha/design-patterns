@@ -10,11 +10,15 @@ Type of design Patterns covered:
 ## Creational Design Patterns
 
 Design patterns covered so far:
-- [x] Singleton
-- [x] Builder
-- [x] Prototype
-- [x] Factory
+- [ ] Singleton
+- [ ] Builder
+- [ ] Prototype
+- [ ] Factory
 - [ ] Abstract Factory
+
+Lecture notes:
+- [Singleton and Builder](notes/01-singleton-builder.md)
+- [Prototype and Factory](notes/02-prototype-factory.md)
 
 Primary references for design patterns:
 - [Gang of Four](https://en.wikipedia.org/wiki/Design_Patterns)
@@ -39,7 +43,7 @@ Design patterns in other languages:
 ## Structural Design Patterns
 
 Design patterns covered so far:
-- [x] Adapter
+- [ ] Adapter
 - [ ] Decorator
 - [ ] Bridge
 - [ ] Composite
